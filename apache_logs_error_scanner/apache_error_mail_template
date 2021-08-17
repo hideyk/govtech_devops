@@ -1,0 +1,13 @@
+Dear users,
+
+There are over (THRESHOLD) errorneous responses in the apache log file located at (APACHE_LOG_FILE).
+
+From:                   (START_TIME)
+To:                     (END_TIME)
+4XX error log count:    (4xx_ERROR_COUNT)
+5XX error log count:    (5xx_ERROR_COUNT)
+Total errors:           (ERROR_COUNT)
+
+Please take action immediately.
+
+Thank you.
