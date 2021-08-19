@@ -205,5 +205,3 @@ By implementing these steps together, we can ensure our target machine does not 
 
 ---
 
-# Task 2
-
